@@ -1,0 +1,4 @@
+source;share/rodog_description/local_setup.bash
+source;share/rodog_description/local_setup.dsv
+source;share/rodog_description/local_setup.sh
+source;share/rodog_description/local_setup.zsh

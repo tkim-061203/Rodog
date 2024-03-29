@@ -1,0 +1,6 @@
+Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kim/rodog_ws/src/rodog_description -DCMAKE_INSTALL_PREFIX=/home/kim/rodog_ws/install/rodog_description
+Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/kim/rodog_ws/src/rodog_description -DCMAKE_INSTALL_PREFIX=/home/kim/rodog_ws/install/rodog_description
+Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description
+Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description

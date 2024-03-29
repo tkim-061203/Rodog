@@ -1,0 +1,19 @@
+running egg_info
+writing ../../../build/servo_config/servo_config.egg-info/PKG-INFO
+writing dependency_links to ../../../build/servo_config/servo_config.egg-info/dependency_links.txt
+writing entry points to ../../../build/servo_config/servo_config.egg-info/entry_points.txt
+writing requirements to ../../../build/servo_config/servo_config.egg-info/requires.txt
+writing top-level names to ../../../build/servo_config/servo_config.egg-info/top_level.txt
+adding license file 'LICENSE' (matched pattern 'LICEN[CS]E*')
+reading manifest file '../../../build/servo_config/servo_config.egg-info/SOURCES.txt'
+writing manifest file '../../../build/servo_config/servo_config.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages/servo_config-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../build/servo_config/servo_config.egg-info to /home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages/servo_config-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/kim/rodog_ws/build/servo_config/install.log'

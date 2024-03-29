@@ -1,0 +1,22 @@
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kim/rodog_ws/build/rodog_description
+-- Install configuration: ""
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf/dingo.urdf
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/package_run_dependencies/rodog_description
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/parent_prefix_path/rodog_description
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/ament_prefix_path.sh
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/path.sh
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/path.dsv
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.bash
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.sh
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.zsh
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.dsv
+-- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/package.dsv
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/packages/rodog_description
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/cmake/rodog_descriptionConfig.cmake
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/cmake/rodog_descriptionConfig-version.cmake
+-- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/package.xml

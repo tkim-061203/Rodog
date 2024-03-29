@@ -1,0 +1,4 @@
+Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description
+Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description

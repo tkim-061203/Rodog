@@ -1,0 +1,26 @@
+[0.102s] Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+[0.178s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.612s] -- Configuring done
+[0.627s] -- Generating done
+[0.634s] -- Build files have been written to: /home/kim/rodog_ws/build/rodog_description
+[0.669s] Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+[0.710s] Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description
+[0.719s] -- Install configuration: ""
+[0.720s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf
+[0.721s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf/dingo.urdf
+[0.726s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/package_run_dependencies/rodog_description
+[0.727s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/parent_prefix_path/rodog_description
+[0.729s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/ament_prefix_path.sh
+[0.730s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/ament_prefix_path.dsv
+[0.732s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/path.sh
+[0.733s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/environment/path.dsv
+[0.734s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.bash
+[0.734s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.sh
+[0.735s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.zsh
+[0.735s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/local_setup.dsv
+[0.736s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/package.dsv
+[0.737s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/ament_index/resource_index/packages/rodog_description
+[0.737s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/cmake/rodog_descriptionConfig.cmake
+[0.737s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/cmake/rodog_descriptionConfig-version.cmake
+[0.737s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description/package.xml
+[0.752s] Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description

@@ -1,0 +1,21 @@
+[1.928s] Invoking command in '/home/kim/rodog_ws/src/rodog_hardware/servo_config': PYTHONPATH=/home/kim/rodog_ws/build/servo_config/prefix_override:/home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/servo_config build --build-base /home/kim/rodog_ws/build/servo_config/build install --record /home/kim/rodog_ws/build/servo_config/install.log --single-version-externally-managed install_data
+[2.283s] running egg_info
+[2.284s] writing ../../../build/servo_config/servo_config.egg-info/PKG-INFO
+[2.285s] writing dependency_links to ../../../build/servo_config/servo_config.egg-info/dependency_links.txt
+[2.285s] writing entry points to ../../../build/servo_config/servo_config.egg-info/entry_points.txt
+[2.286s] writing requirements to ../../../build/servo_config/servo_config.egg-info/requires.txt
+[2.286s] writing top-level names to ../../../build/servo_config/servo_config.egg-info/top_level.txt
+[2.317s] adding license file 'LICENSE' (matched pattern 'LICEN[CS]E*')
+[2.318s] reading manifest file '../../../build/servo_config/servo_config.egg-info/SOURCES.txt'
+[2.320s] writing manifest file '../../../build/servo_config/servo_config.egg-info/SOURCES.txt'
+[2.320s] running build
+[2.321s] running build_py
+[2.325s] running install
+[2.325s] running install_lib
+[2.330s] running install_data
+[2.330s] running install_egg_info
+[2.332s] removing '/home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages/servo_config-0.0.0-py3.10.egg-info' (and everything under it)
+[2.333s] Copying ../../../build/servo_config/servo_config.egg-info to /home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages/servo_config-0.0.0-py3.10.egg-info
+[2.334s] running install_scripts
+[2.362s] writing list of installed files to '/home/kim/rodog_ws/build/servo_config/install.log'
+[2.408s] Invoked command in '/home/kim/rodog_ws/src/rodog_hardware/servo_config' returned '0': PYTHONPATH=/home/kim/rodog_ws/build/servo_config/prefix_override:/home/kim/rodog_ws/install/servo_config/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/servo_config build --build-base /home/kim/rodog_ws/build/servo_config/build install --record /home/kim/rodog_ws/build/servo_config/install.log --single-version-externally-managed install_data

@@ -1,0 +1,74 @@
+[0.095s] Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+[0.149s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.678s] -- Configuring done
+[0.699s] -- Generating done
+[0.705s] -- Build files have been written to: /home/kim/rodog_ws/build/rodog_description
+[0.744s] Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/kim/rodog_ws/build/rodog_description -- -j2 -l2
+[0.802s] Invoking command in '/home/kim/rodog_ws/build/rodog_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description
+[0.821s] -- Install configuration: ""
+[0.828s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.828s]   file INSTALL cannot find "/home/kim/rodog_ws/src/rodog_description/rviz":
+[0.828s]   No such file or directory.
+[0.829s] 
+[0.829s] [0m
+[0.829s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf
+[0.829s] -- Installing: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//urdf/dingo.urdf
+[0.830s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes
+[0.830s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL_link3.STL
+[0.830s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR_link1.dae
+[0.830s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L_link2.dae
+[0.830s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR1_obj.obj
+[0.831s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR_link2.STL
+[0.831s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR1_obj.obj
+[0.831s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL_link4.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R2_obj.obj
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL_link2.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL_link1.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L2_obj.mtl
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R_link1_collision.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR_link4.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/thread.jpg
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/base_link.STL
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/main.py
+[0.832s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/body_obj.mtl
+[0.833s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L_link3_collision.STL
+[0.834s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R_link2_collision.STL
+[0.834s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR_link1.STL
+[0.834s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/link4.dae
+[0.834s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R3_obj.obj
+[0.834s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L_link2_collision.STL
+[0.835s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL_link2.STL
+[0.835s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL1_obj.obj
+[0.835s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL1_obj.mtl
+[0.835s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L3_obj.obj
+[0.835s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL_link4.STL
+[0.836s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/base_link.dae
+[0.836s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L2_obj.obj
+[0.836s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R_link2.dae
+[0.836s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL_link1.STL
+[0.837s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL_link3.STL
+[0.837s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/body_obj.obj
+[0.837s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/link4_collision.STL
+[0.837s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL1_obj.mtl
+[0.837s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR_link3.STL
+[0.838s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R_link3_collision.STL
+[0.838s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R3_obj.mtl
+[0.838s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/base_collision.STL
+[0.838s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R_link3.dae
+[0.838s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR_link4.STL
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RL_link1.dae
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR_link1.STL
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR_link1.dae
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR_link2.STL
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L_link1_collision.STL
+[0.839s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L_link3.dae
+[0.840s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL_link1.dae
+[0.840s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR1_obj.mtl
+[0.840s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FL1_obj.obj
+[0.840s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/RR1_obj.mtl
+[0.840s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/L3_obj.mtl
+[0.841s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/FR_link3.STL
+[0.841s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//meshes/R2_obj.mtl
+[0.841s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//launch
+[0.841s] -- Up-to-date: /home/kim/rodog_ws/install/rodog_description/share/rodog_description//launch/display.launch.xml
+[0.858s] Invoked command in '/home/kim/rodog_ws/build/rodog_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kim/ros2_ws/install/p1_py_pkg:/opt/ros/humble /usr/bin/cmake --install /home/kim/rodog_ws/build/rodog_description
