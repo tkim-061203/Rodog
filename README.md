@@ -7,7 +7,7 @@
 | Rasberry Pi 4 | cpu | 1 |
 | PCA9658       | module	servo motor controller | 1 |
 | SPT5430HV-180W 8.4V      | servo motor      |  1 |
-| DC-DC buck converter |  7~32VDC to  0.8~28VDC  |    1 |
+| DC-DC buck converter |  7-32VDC to  0.8-28VDC  |    1 |
 | 2P 7.4v 2800 SM battery | lithium ion battery | 1 |
 
 # 2. Software
