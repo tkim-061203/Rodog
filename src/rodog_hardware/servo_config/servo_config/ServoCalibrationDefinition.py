@@ -89,33 +89,3 @@ class motor_config():
             except Exception as e:
                 print(f"Error occurred with servo {i}. Error message: {e}")
         
-
-
-        #-------------------- ##CALIBRATRION ANGLES---------------------#
-        #    TODO: put these angle in a refrencable file or matrix. Maybe use a text file that can be
-        #          editied using the 'calibrate_servo' method.
-        
-        # ALl calibration angles are defined as the required angular input to the servo to achieve a configuration that is:
-        #  - for hip servos, perfectly vertical. Increasing hip angles lifts the hip up
-        #  - for Upper legs, facing direclty horizontal toward the back of the robot
-        #  - for lower leg servos, facing directly down from the hip.
-
-        # ## FRONT RIGHT
-        # self.front_right_hip   = 113 degrees, lower number lifts up
-        # self.front_right_upper = 29
-        # self.front_right_lower = 24 
-
-        # ## FRONT LEFT
-        # self.front_left_hip   =  74  higher number lifts up
-        # self.front_left_upper = 17 (all angles to be output are: 180-(theta + 6)  )
-        # self.front_left_lower = 0 (all angles to be output are: 180-(theta + 7)  )
-
-        # ## BACK RIGHT
-        # self.back_right_hip   = 105 DEGREES, higher number lifts up
-        # self.back_right_upper = 22
-        # self.back_right_lower = 30
-
-        # ## BACK LEFT
-        # self.back_left_hip   = 83 (all angles to be output are: 180-(theta + 6)  )
-        # self.back_left_upper = 9
-        # self.back_left_lower = 5
